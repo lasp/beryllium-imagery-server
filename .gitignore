@@ -1,0 +1,9 @@
+raw/
+node_modules
+tiff
+tiff-merged
+trees
+tiff-resized
+merged
+*.zip
+

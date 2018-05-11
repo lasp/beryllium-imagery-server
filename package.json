@@ -1,0 +1,20 @@
+{
+  "name": "image-server",
+  "version": "1.0.0",
+  "description": "Map Tile Service Server",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/bkputnam/imagery-server2.git"
+  },
+  "author": "Brian Putnam",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bkputnam/imagery-server2#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "beepbeep": "^1.2.0",
+    "fs-extra": "^0.26.2",
+    "gulp": "^3.9.0",
+    "request": "^2.65.0",
+    "rsync": "^0.4.0"
+  }
+}
