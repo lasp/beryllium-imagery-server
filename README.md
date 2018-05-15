@@ -4,8 +4,7 @@
 
 * **Primary Dev:** Brian Putnam
 
-This project is an internal tool for the Maven 3D project. Alex DeWolfe is the primary person for
-that project, but I doubt she's ever heard of this tool.
+This project is an internal tool for the Maven 3D project.
 
 ### Beryllium Imagery Server Generator Summary
 
