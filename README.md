@@ -1,9 +1,5 @@
 # Beryllium Imagery Server Generator
 
-### Contacts
-
-* **Primary Dev:** Brian Putnam
-
 This project is an internal tool for the Maven 3D project.
 
 ### Beryllium Imagery Server Generator Summary
