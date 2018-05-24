@@ -4,11 +4,11 @@
   "description": "Map Tile Service Server",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/bkputnam/imagery-server2.git"
+    "url": "https://github.com/lasp/beryllium-imagery-server"
   },
-  "author": "Brian Putnam",
+  "author": "LASP Web Application Development Team <web.support@lasp.colorado.edu>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/bkputnam/imagery-server2#readme",
+  "homepage": "https://github.com/lasp/beryllium-imagery-server/blob/master/README.md",
   "dependencies": {
     "async": "^1.5.0",
     "beepbeep": "^1.2.0",

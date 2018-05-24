@@ -181,7 +181,7 @@ See Deployment Requirements for the
 
 ### FAQs and Help
 
-For questions please contact LASP Web Team
+For questions please contact the LASP Web Application Development Team <web.support@lasp.colorado.edu>
 
 ##### Beryllium Imagery Server Generator-specific common issues, gotchas
 
